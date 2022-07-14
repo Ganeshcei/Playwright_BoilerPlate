@@ -1,3 +1,3 @@
-step 1: git clone https://github.com/JayKishoreDuvvuri/Playwright-Jest-Test-Automation-Framework
+step 1: git clone https://github.com/Ganeshcei/Playwright_BoilerPlate
 step 2: execute "npm i" command
 step 3: run test---->"npm run test"
